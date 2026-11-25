@@ -45,10 +45,6 @@ Unlike a traditional image search engine, which retrieves existing images, a tex
 
 An AI-generated illustration showing a modern classroom with students interacting with intelligent robots and digital learning equipment.
 
-<image-placeholder>
-![Text to Image AI Concept](images/text-to-image-concept.png)
-</image-placeholder>
-
 ---
 
 ## OBJECTIVES
@@ -336,7 +332,6 @@ The screen below shows a sample text-to-image generator, with the prompt entered
 
 An illustration of a modern classroom containing students, AI-powered robots, interactive digital displays, and advanced educational technology.
 
-**Note:** Replace this placeholder with the actual image generated during the practical.
 
 ---
 
