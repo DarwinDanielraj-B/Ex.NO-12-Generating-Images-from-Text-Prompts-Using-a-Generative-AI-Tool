@@ -336,8 +336,6 @@ The screen below shows a sample text-to-image generator, with the prompt entered
 
 An illustration of a modern classroom containing students, AI-powered robots, interactive digital displays, and advanced educational technology.
 
-![Final AI Generated Image](images/final-ai-generated-image.png)
-
 **Note:** Replace this placeholder with the actual image generated during the practical.
 
 ---
