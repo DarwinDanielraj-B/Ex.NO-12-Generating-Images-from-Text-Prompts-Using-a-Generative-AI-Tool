@@ -155,9 +155,6 @@ The prompt should clearly identify the main subject and the intended visual appe
 
 After entering the prompt, check the spelling and ensure that the description communicates the desired scene.
 
-<image-placeholder>
-![Entering the First Text Prompt](images/step-03-first-prompt.png)
-</image-placeholder>
 
 ### Step 4: Generating and Reviewing the First Set of Images
 
@@ -171,9 +168,6 @@ Depending on the selected platform, the tool may generate one or multiple image 
 
 The first generation provides a baseline for understanding how the AI responds to the prompt.
 
-<image-placeholder>
-![First Set of AI Generated Images](images/step-04-first-generation.png)
-</image-placeholder>
 
 ### Step 5: Refining the Prompt for a Better Result
 
@@ -195,9 +189,6 @@ After reviewing the initial images, modify the prompt by adding more descriptive
 
 Prompt refinement helps the user understand how additional descriptive words influence the generated image.
 
-<image-placeholder>
-![Refined Text Prompt and Generated Result](images/step-05-refined-prompt.png)
-</image-placeholder>
 
 ### Step 6: Comparing Different Style Keywords
 
@@ -226,9 +217,6 @@ Compare the generated images to understand how the style keyword changes the vis
 | Photorealistic | Realistic lighting, textures, and object details |
 | Digital Art | Computer-generated artistic appearance |
 
-<image-placeholder>
-![Different AI Image Generation Styles](images/step-06-style-comparison.png)
-</image-placeholder>
 
 ### Step 7: Saving the Final Image
 
@@ -246,9 +234,6 @@ Compare the generated images to understand how the style keyword changes the vis
 
 The final image can be used in the practical report, academic presentation, or project documentation, subject to the platform's usage terms.
 
-<image-placeholder>
-![Downloading the Final AI Generated Image](images/step-07-save-image.png)
-</image-placeholder>
 
 ### Step 8: Noting Ethical Considerations
 
